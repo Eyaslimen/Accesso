@@ -1,0 +1,88 @@
+.navbar {
+  margin-right: 20%;
+  background-color: #EBDFD6;
+  color: black;
+  width: 100% ;
+  height: auto;
+  display: flex;
+  flex-direction:row;
+}
+.icon {
+  display: none;
+}
+.logo {
+  margin-top: 20px;
+  margin-left: 2%;
+  width: 15%;
+  color: black;
+  font-family: Tangerine;
+}
+img {
+  max-width: 50%;
+  max-height: 50%;
+}
+h4 {
+  margin-top: -10%;
+  margin-left: 5%;
+}
+.pages {
+  margin-left:0%;
+  width: 35%;
+
+}
+.search {
+  margin-right: 10%;
+  width:20%;
+  border-bottom: 1px solid black;
+}
+input {
+  border: none;
+  background-color:#EBDFD6 ;
+  margin-left: 3px;
+}
+input:focus {
+  outline: none; /* Assure que l'outline est désactivé lors du focus */
+  border: 1px solid transparent; /* Définit une bordure transparente */
+}
+.search > button {
+  min-height: 20px;
+  min-width: 20px;
+  border-radius: 50%;
+  margin-left: 5px;
+  background-color: transparent;
+  border: none;
+}
+.user {
+  width: 10%;
+}
+a {
+  margin-left: 20px;
+  color: #000;
+}
+a:hover {
+  cursor: pointer;
+  color: white;
+}
+
+.dropdown-menu {
+  position: absolute;
+  background-color: white;
+  border: 1px solid #ccc;
+  z-index: 1000;
+  right: 0;
+  top: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.dropdown-menu a {
+  padding: 10px 20px;
+  text-decoration: none;
+  color: black;
+  display: block;
+}
+
+.dropdown-menu a:hover {
+  background-color: #f1f1f1;
+}

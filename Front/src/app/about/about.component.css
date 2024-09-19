@@ -1,0 +1,67 @@
+/* About Us part */
+.AboutUs {
+    display: grid;
+    grid-template-columns: 70% 30%;
+    background-color: #EBDFD6 ;
+    padding: 5%;
+    height: 400px;
+}
+.image > img {
+    max-width: 90%;
+    max-height: 90%;
+    margin-top: -30%;
+    margin-left: 20%;
+}
+.Text > h1 {
+    width: 150px;
+    background-color: whitesmoke;
+    font-family: DayDream;
+    font-weight: 300;
+    margin-top: -8%;
+    margin-left: -10%;
+}
+.Text > h6 {
+    font-size: 1.5vw;
+    font-weight: 500;
+    margin-top: 9%;
+}
+.Text {
+    padding: 5%;
+    height: 250px;
+    /* background-color: rgba(0, 0, 0, 0.055); ccbbaf */
+    background-color: #ccbbafc3;
+}
+
+/* Our Team Part */
+.Team {
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+h1 {
+    text-align: center;
+    font-family: DayDream;
+    font-weight: 300;
+}
+.members {
+    padding: 5%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+}
+.member {
+    height: 100%;
+    width: 70%;
+    background-color: #EBDFD6;
+    border-radius: 0%  30% 0% 30%;
+}
+.member > img  {
+    max-width: 100%;
+    max-height: 100%;
+    margin-top: -0%;
+    margin-left: -10;
+    position: relative;
+}
+.member >h4 {
+    font-family: DayDream;
+    text-align: center;
+    padding: 5%;
+}

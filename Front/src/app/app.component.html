@@ -1,0 +1,29 @@
+<div class="navbar" id="nav">
+  <div class="logo">
+    <img src="./assets/logo2.png" alt="">
+    <h4>Accesso</h4>
+  </div>
+  <button onclick="myFunction()" class="icon"><i class="fa fa-bars"></i></button>
+  <div class="menu-toggle" id="menu-toggle"></div>
+  <div class="pages" id="pages">
+    <a routerLink="/home">Home</a>
+    <a routerLink="/shop">Shop</a>
+    <a routerLink="/about">About</a>
+    <a routerLink="/contact">Contact</a>
+  </div>
+  <div class="search">
+    <input type="text" placeholder="Search..">
+    <button><i class="fa fa-search"></i></button>
+  </div>
+  <div class="user">
+    <a (click)="toggleDropdown()">
+      <i class="fa fa-user"></i>
+    </a>
+    <div class="dropdown-menu" *ngIf="isDropdownOpen">
+      <a *ngIf="!isLoggedIn" routerLink="/login" (click)="toggleDropdown()">Sign In</a>
+      <a *ngIf="isLoggedIn" routerLink="/login" (click)="logout()">Log Out</a>
+    </div>
+    <a routerLink="/cart"><i class="fa-solid fa-cart-shopping"></i></a>
+  </div>
+</div>
+<router-outlet></router-outlet>

@@ -1,0 +1,22 @@
+.new_arrivals {
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: #EBDFD6;
+    height: 415px;
+}
+.text {
+    margin-top: 10%;
+}
+h3 {
+    font-size: 3vw;
+}
+img {
+    width: 80%;
+    height: 80%;
+    margin-top: 13%;
+}
+button {
+    margin-left: 30%;
+    background-color: white;
+    color: #EBDFD6;
+}

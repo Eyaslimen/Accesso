@@ -1,0 +1,23 @@
+.subscribe {
+    padding: 5%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    height: 400px;
+}
+h1 {
+    margin-left: 10%;
+    color: #EBDFD6 ;
+    font-size: 5vw;
+    font-family: Daydream;
+}
+input {
+  padding: 5px;
+  margin-top: 10%;
+  margin-left: 30%;
+  background-color: #EBDFD6;
+}
+button {
+    background-color: #EBDFD6;
+    border-radius: 3px;
+    margin-left: 40%;
+}

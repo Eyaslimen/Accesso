@@ -1,0 +1,35 @@
+<div class="productslider">
+  <h1>Best sellers</h1>
+<div class="slider">
+  <button id="prev" class="btn">
+    <i class="las la-angle-left"></i>
+  </button>
+  <div class="card-content">
+    <div class="product-card" *ngFor="let product of products">
+      <img [src]="'http://localhost:5278/' + product.imageUrl" alt="{{ product.name }}">
+      <div class="product-info">
+        <h2>{{ product.name }}</h2>
+        <p class="description">{{ product.description }}</p>
+        <span class="C2etoiles"><div></div>
+          <span class="C2etoiles"><div></div>
+          <span class="C2etoiles"><div></div>  
+          <span class="C2etoiles"><div></div> 
+          <span class="C2etoiles"><div></div>
+              </span>
+              </span>
+              </span>
+              </span>
+              </span>
+        <div class="button">
+          <a >${{ product.price }}</a><a class="cart-btn"  ><i class="fa fa-shopping-cart" aria-hidden="true"></i>
+ADD TO CART</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <button id="next" class="btn">
+    <i class="las la-angle-right"></i>
+  </button>
+</div>
+</div>

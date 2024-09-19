@@ -1,0 +1,31 @@
+.testimonials {
+    padding:5%;
+    margin-top: 10%;
+    background-color:#EBDFD6 ;
+    border-radius: 40% 40% 0% 0%;
+}
+h1 {
+    font-family: 'Daydream', sans-serif;
+    margin-left: 40%;
+     }
+.images {
+    margin-left: 40%;
+}
+img {
+    margin: 5%;
+    width: 25%;
+    height: 25%;
+    border-radius: 50%;
+}
+button {
+    border-radius: 50%;
+    background-color:#EBDFD6 ;
+}
+h3 {
+    margin-left: 48%;
+}
+h4 {
+    margin-left: 50%;
+}
+h5 {
+}

@@ -1,0 +1,47 @@
+
+
+.db {
+    margin-left: 5%;
+    padding: 2%;
+}
+a {
+    color: black;
+}
+.cart {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+table {
+    width:60%;
+    margin-left: 5%;
+    margin-right: auto;
+    height: 80%;
+}
+th, td {
+    padding: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.225);
+    width: 20%;
+  }
+tr:hover {background-color: rgba(0, 0, 0, 0.185);}
+img {
+    width: 70%;
+    height: 60%;
+}
+.cartInfo {
+ margin-left: -10%;
+ border: 1px solid gainsboro;
+ padding: 10%;
+ width: 100%;
+ height: 250px;
+ background-color: #EBDFD6;
+}
+button {
+    padding: 5px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+button:hover {
+    scale: 1.03;
+}
