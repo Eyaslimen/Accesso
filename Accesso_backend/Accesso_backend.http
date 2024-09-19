@@ -1,0 +1,51 @@
+@Accesso_backend_HostAddress = http://localhost:5278
+
+GET {{Accesso_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+### Add a new category
+POST https://localhost:5278/api/Categories
+Content-Type: application/json
+
+{
+  "name": "Lunettes"
+}
+
+###
+
+### Get all categories to find the ID of the newly created category
+GET https://localhost:5278/api/Categories
+Accept: application/json
+
+###
+
+### Add a new product and associate it with the category (replace <categoryId> with the actual ID)
+POST https://localhost:5278/api/Products
+Content-Type: application/json
+
+{
+  "name": "Lunette de Soleil",
+  "description": "Lunette de soleil élégante",
+  "price": 29.99,
+  "categoryId": <categoryId>
+}
+
+###
+
+### Add another product and associate it with the same category (replace <categoryId> with the actual ID)
+POST https://localhost:5278/api/Products
+Content-Type: application/json
+
+{
+  "name": "Lunette de Vue",
+  "description": "Lunette de vue confortable",
+  "price": 49.99,
+  "categoryId": <categoryId>
+}
+
+###
+
+### Get all products to verify the association
+GET https://localhost:5278/api/Products
+Accept: application/json
