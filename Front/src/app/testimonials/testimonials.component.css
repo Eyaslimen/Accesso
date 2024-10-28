@@ -6,11 +6,11 @@
 }
 h1 {
     font-family: 'Daydream', sans-serif;
-    margin-left: 40%;
+    margin-left: 38%;
      }
-.images {
-    margin-left: 40%;
-}
+ .images {
+    margin-left: 35%;
+} 
 img {
     margin: 5%;
     width: 25%;
@@ -22,10 +22,10 @@ button {
     background-color:#EBDFD6 ;
 }
 h3 {
-    margin-left: 48%;
+    margin-left: 42%;
 }
 h4 {
-    margin-left: 50%;
+    margin-left: 45%;
 }
 h5 {
 }

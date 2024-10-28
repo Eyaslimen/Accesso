@@ -11,7 +11,7 @@ export class AuthService {
   private apiUrl = 'http://localhost:5278/api/Users';
   private currentUserSubject: BehaviorSubject<any>;
   public currentUser: Observable<any>;
-  
+  public products_added:any;
   constructor(private http: HttpClient) {
     const storedUser = localStorage.getItem('currentUser');
     this.currentUserSubject = new BehaviorSubject<any>(storedUser ? JSON.parse(storedUser) : null);

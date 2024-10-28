@@ -86,3 +86,18 @@ a:hover {
 .dropdown-menu a:hover {
   background-color: #f1f1f1;
 }
+
+.fa-solid fa-cart-shopping {
+  position: relative;
+  display: inline-block;
+}
+
+.badge {
+  position: absolute;
+  background-color: red;
+  color: white;
+  margin-top: -15px;
+  border-radius: 50%;
+  padding: 4px 8px;
+  font-size: 8px;
+}

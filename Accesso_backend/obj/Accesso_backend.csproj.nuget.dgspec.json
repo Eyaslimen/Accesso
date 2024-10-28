@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\Accesso_backend.csproj": {}
+    "C:\\Accesso\\Accesso_backend\\Accesso_backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\Accesso_backend.csproj": {
+    "C:\\Accesso\\Accesso_backend\\Accesso_backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\Accesso_backend.csproj",
+        "projectUniqueName": "C:\\Accesso\\Accesso_backend\\Accesso_backend.csproj",
         "projectName": "Accesso_backend",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\Accesso_backend.csproj",
+        "projectPath": "C:\\Accesso\\Accesso_backend\\Accesso_backend.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\obj\\",
+        "outputPath": "C:\\Accesso\\Accesso_backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

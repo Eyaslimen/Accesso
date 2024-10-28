@@ -2,14 +2,15 @@ import { Component, EventEmitter, OnInit, Output } from '@angular/core';
 import { RouterLink, RouterOutlet } from '@angular/router';
 import { Category, Product } from '../products.service';
 import { ProductsService } from '../products.service';
-import { CommonModule, NgFor } from '@angular/common';
+import { CommonModule, NgFor, NgIf } from '@angular/common';
 import { AuthService } from '../services/auth/auth.service';
 import { CartService } from '../services/cart.service';
-import { FormsModule } from '@angular/forms'; //pour ngModel
+import { FormsModule } from '@angular/forms';
+import { FooterComponent } from "../footer/footer.component"; //pour ngModel
 @Component({
   selector: 'app-products',
   standalone: true,
-  imports: [RouterLink,RouterOutlet,NgFor,CommonModule,FormsModule],
+  imports: [RouterLink, RouterOutlet, NgFor, CommonModule, FormsModule, FooterComponent,NgIf],
   templateUrl: './products.component.html',
   styleUrl: './products.component.css'
 })
@@ -24,11 +25,12 @@ export class ProductsComponent implements OnInit {
    showFilterForm: boolean = false;
    showSearch: boolean = false;
    selectedCategoryId!: number;
+ 
    constructor(private productsService: ProductsService, private authService: AuthService,private cartService:CartService) {
     this.authService.currentUser.subscribe(user => {
       this.currentUser = user;
     });
-  }   
+  }
   ngOnInit(): void {
         this.loadCategories();
       }

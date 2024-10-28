@@ -1,6 +1,8 @@
 import { Component, AfterViewInit, OnInit, Output, EventEmitter } from '@angular/core';
 import { Product, ProductsService } from '../products.service';
 import { NgFor } from '@angular/common';
+import { AuthService } from '../services/auth/auth.service';
+import { CartService } from '../services/cart.service';
 
 @Component({
   selector: 'app-product-slider',
@@ -13,8 +15,11 @@ export class ProductSliderComponent implements AfterViewInit,OnInit {
 
     @Output() categorySelected = new EventEmitter<number>();
     products: Product[] = [];
-    constructor(private productsService: ProductsService) {
-   }   
+    currentUser : any;
+    constructor(private productsService: ProductsService, private authService: AuthService,private cartService:CartService) {
+      this.authService.currentUser.subscribe(user => {
+        this.currentUser = user;
+      }); }
    ngOnInit(): void {
          this.loadProducts(12);
        }
@@ -41,5 +46,24 @@ export class ProductSliderComponent implements AfterViewInit,OnInit {
 
     next.addEventListener('click', handleScrollNext);
     prev.addEventListener('click', handleScrollPrev);
+  }
+
+  onAddToCart(productId: number): void {
+    if (this.currentUser) {
+      const userId = this.currentUser.id;
+      const name=this.currentUser.id;
+      console.log(userId); 
+      console.log(name);
+      this.cartService.addToCart(userId, productId,1).subscribe({
+        next: response => {
+          console.log('Product added to cart', response);
+        },
+        error: error => {
+          console.error('Error adding product to cart', error);
+        }
+      });
+    } else {
+      console.log('User not logged in');
+    }
   }
 }

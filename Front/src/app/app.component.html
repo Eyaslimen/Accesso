@@ -23,7 +23,9 @@
       <a *ngIf="!isLoggedIn" routerLink="/login" (click)="toggleDropdown()">Sign In</a>
       <a *ngIf="isLoggedIn" routerLink="/login" (click)="logout()">Log Out</a>
     </div>
-    <a routerLink="/cart"><i class="fa-solid fa-cart-shopping"></i></a>
+    <a routerLink="/cart"><i class="fa-solid fa-cart-shopping"></i><span class="badge">{{ cartItemCount }}</span>
+    </a>
+
   </div>
 </div>
-<router-outlet></router-outlet>
+<router-outlet></router-outlet> 

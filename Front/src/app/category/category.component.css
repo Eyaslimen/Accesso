@@ -64,13 +64,11 @@
     color: white;
 }
 
-
-
 .col div:hover .overlay-content {
     opacity: 1; 
 } 
 .shop-btn {
-    background-color: #ff7f50;
+    background-color: #EBDFD6;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -82,7 +80,7 @@
 }
 
 .shop-btn:hover {
-    background-color: #e56e40;
+    background-color: pink;
 }
 
 /* style */

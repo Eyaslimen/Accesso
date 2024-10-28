@@ -23,6 +23,7 @@
 .q {
     height:100%;
     display: flex;
+    border: 1px solid;
     flex-direction: column;
     background-color: #EBDFD6;
     padding-left: 30%;

@@ -9,6 +9,8 @@
 }
 h3 {
     font-size: 3vw;
+    font-weight: 400;
+    font-family: poppins;
 }
 img {
     width: 80%;
@@ -16,7 +18,23 @@ img {
     margin-top: 13%;
 }
 button {
+    font-family: poppins;
     margin-left: 30%;
     background-color: white;
     color: #EBDFD6;
+}
+button {
+    margin-top: 2%;
+    font-size:2vw;
+    margin-left: 30%;
+    border: 1px solid grey;
+    border-radius: 20px;
+    width: 30%;
+    color: black;
+    font-weight: 100;
+}
+button:hover {
+    transform: translate(1.1);
+    box-shadow: 2px 5px 2px 1px rgba(128, 128, 128, 0.49);
+    border: none;
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uKkFqHikzIA=",
+  "dgSpecHash": "vpegoPrLvG0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\Accesso_backend.csproj",
+  "projectFilePath": "C:\\Accesso\\Accesso_backend\\Accesso_backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

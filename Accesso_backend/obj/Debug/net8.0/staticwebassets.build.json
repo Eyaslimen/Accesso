@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2F4z6VYBeAC4dTta1Y6NUzfE50aKbztg1WgLYCsotRc=",
+  "Hash": "lfotqj5eA2sDRbGnQtxqBBP0iBm5eLZdykB7BT5ltuM=",
   "Source": "Accesso_backend",
   "BasePath": "_content/Accesso_backend",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Accesso_backend\\wwwroot",
       "Source": "Accesso_backend",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\bags\\b1.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\bags\\b1.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/bags/b1.png",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bags\\b1.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\bags\\b10.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\bags\\b10.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/bags/b10.png",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bags\\b10.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\bags\\b2.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\bags\\b2.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/bags/b2.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bags\\b2.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\bags\\b3.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\bags\\b3.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/bags/b3.png",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bags\\b3.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\bags\\b4.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\bags\\b4.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/bags/b4.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bags\\b4.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\bags\\b5.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\bags\\b5.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/bags/b5.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bags\\b5.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\bags\\b6.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\bags\\b6.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/bags/b6.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bags\\b6.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\bags\\b7.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\bags\\b7.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/bags/b7.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bags\\b7.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\bags\\b8.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\bags\\b8.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/bags/b8.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bags\\b8.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\bags\\b9.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\bags\\b9.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/bags/b9.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bags\\b9.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\earrings\\bo1.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\earrings\\bo1.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/earrings/bo1.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\earrings\\bo1.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\earrings\\bo10.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\earrings\\bo10.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/earrings/bo10.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\earrings\\bo10.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\earrings\\bo2.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\earrings\\bo2.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/earrings/bo2.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\earrings\\bo2.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\earrings\\bo3.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\earrings\\bo3.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/earrings/bo3.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\earrings\\bo3.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\earrings\\bo4.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\earrings\\bo4.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/earrings/bo4.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\earrings\\bo4.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\earrings\\bo5.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\earrings\\bo5.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/earrings/bo5.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\earrings\\bo5.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\earrings\\bo6.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\earrings\\bo6.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/earrings/bo6.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\earrings\\bo6.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\earrings\\bo7.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\earrings\\bo7.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/earrings/bo7.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\images\\earrings\\bo7.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\earrings\\bo8.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\earrings\\bo8.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/earrings/bo8.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\images\\earrings\\bo8.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\earrings\\bo9.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\earrings\\bo9.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/earrings/bo9.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\earrings\\bo9.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\glasses\\l1.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\glasses\\l1.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/glasses/l1.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\glasses\\l1.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\glasses\\l10.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\glasses\\l10.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/glasses/l10.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\images\\glasses\\l10.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\glasses\\l2.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\glasses\\l2.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/glasses/l2.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\images\\glasses\\l2.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\glasses\\l3.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\glasses\\l3.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/glasses/l3.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\images\\glasses\\l3.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\glasses\\l4.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\glasses\\l4.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/glasses/l4.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\images\\glasses\\l4.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\glasses\\l5.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\glasses\\l5.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/glasses/l5.png",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\images\\glasses\\l5.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\glasses\\l6.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\glasses\\l6.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/glasses/l6.png",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\glasses\\l6.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\glasses\\l7.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\glasses\\l7.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/glasses/l7.png",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\images\\glasses\\l7.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\glasses\\l8.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\glasses\\l8.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/glasses/l8.png",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\images\\glasses\\l8.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\glasses\\l9.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\glasses\\l9.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/glasses/l9.png",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\images\\glasses\\l9.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\necklaces\\c1.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\necklaces\\c1.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/necklaces/c1.png",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\images\\necklaces\\c1.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\necklaces\\c10.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\necklaces\\c10.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/necklaces/c10.png",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\images\\necklaces\\c10.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\necklaces\\c2.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\necklaces\\c2.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/necklaces/c2.png",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\images\\necklaces\\c2.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\necklaces\\c3.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\necklaces\\c3.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/necklaces/c3.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\necklaces\\c3.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\necklaces\\c4.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\necklaces\\c4.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/necklaces/c4.png",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\images\\necklaces\\c4.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\necklaces\\c5.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\necklaces\\c5.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/necklaces/c5.png",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\images\\necklaces\\c5.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\necklaces\\c6.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\necklaces\\c6.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/necklaces/c6.png",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\images\\necklaces\\c6.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\necklaces\\c7.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\necklaces\\c7.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/necklaces/c7.png",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\images\\necklaces\\c7.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\necklaces\\c8.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\necklaces\\c8.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/necklaces/c8.png",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\images\\necklaces\\c8.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\necklaces\\c9.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\necklaces\\c9.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/necklaces/c9.png",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\images\\necklaces\\c9.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\rings\\r1 - Copier.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\rings\\r1 - Copier.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/rings/r1 - Copier.png",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rings\\r1 - Copier.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\rings\\r1.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\rings\\r1.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/rings/r1.png",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rings\\r1.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\rings\\r2.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\rings\\r2.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/rings/r2.png",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rings\\r2.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\rings\\r3.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\rings\\r3.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/rings/r3.png",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rings\\r3.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\rings\\r4.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\rings\\r4.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/rings/r4.png",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rings\\r4.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\rings\\r5.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\rings\\r5.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/rings/r5.png",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rings\\r5.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\rings\\r6 - Copier.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\rings\\r6 - Copier.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/rings/r6 - Copier.png",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rings\\r6 - Copier.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\rings\\r6.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\rings\\r6.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/rings/r6.png",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rings\\r6.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\rings\\r7.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\rings\\r7.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/rings/r7.png",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rings\\r7.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\rings\\r8.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\rings\\r8.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/rings/r8.png",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rings\\r8.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\trendyProducts\\t1.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\trendyProducts\\t1.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/trendyProducts/t1.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\trendyProducts\\t1.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\trendyProducts\\t2.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\trendyProducts\\t2.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/trendyProducts/t2.png",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\images\\trendyProducts\\t2.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\trendyProducts\\t3.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\trendyProducts\\t3.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/trendyProducts/t3.png",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\images\\trendyProducts\\t3.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\trendyProducts\\t4.jpg",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\trendyProducts\\t4.jpg",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/trendyProducts/t4.jpg",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\images\\trendyProducts\\t4.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\trendyProducts\\t5.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\trendyProducts\\t5.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/trendyProducts/t5.png",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\images\\trendyProducts\\t5.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\trendyProducts\\t6.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\trendyProducts\\t6.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/trendyProducts/t6.png",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\images\\trendyProducts\\t6.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\trendyProducts\\t7.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\trendyProducts\\t7.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/trendyProducts/t7.png",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\images\\trendyProducts\\t7.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\images\\trendyProducts\\t8.png",
+      "Identity": "C:\\Accesso\\Accesso_backend\\wwwroot\\images\\trendyProducts\\t8.png",
       "SourceId": "Accesso_backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Accesso_backend\\Accesso_backend\\wwwroot\\",
+      "ContentRoot": "C:\\Accesso\\Accesso_backend\\wwwroot\\",
       "BasePath": "_content/Accesso_backend",
       "RelativePath": "images/trendyProducts/t8.png",
       "AssetKind": "All",

@@ -21,7 +21,7 @@
               </span>
               </span>
         <div class="button">
-          <a >${{ product.price }}</a><a class="cart-btn"  ><i class="fa fa-shopping-cart" aria-hidden="true"></i>
+          <a >${{ product.price }}</a><a class="cart-btn" (click)="onAddToCart(product.id)"  ><i class="fa fa-shopping-cart" aria-hidden="true"></i>
 ADD TO CART</a>
         </div>
       </div>

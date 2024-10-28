@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-firstpage',
@@ -8,5 +9,8 @@ import { Component } from '@angular/core';
   styleUrl: './firstpage.component.css'
 })
 export class FirstpageComponent {
-
+  constructor(private router:Router) {}
+  shop(): void {
+    this.router.navigate(['/shop']);  
+  }
 }
