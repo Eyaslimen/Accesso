@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { CartItem, CartService } from '../services/cart.service';
 import { AuthService } from '../services/auth/auth.service';
 import { NgFor } from '@angular/common';
-import {  RouterLink, RouterOutlet } from '@angular/router';
+import {  Router, RouterLink, RouterOutlet } from '@angular/router';
 import { FooterComponent } from "../footer/footer.component";
 @Component({
   selector: 'app-cart',
@@ -16,7 +16,7 @@ export class CartComponent implements OnInit {
   total: number = 0;
   cartItems: CartItem[] = [];
 
-  constructor(private cartService: CartService, private authService: AuthService) {
+  constructor(private cartService: CartService, private authService: AuthService , private router : Router) {
     this.authService.currentUser.subscribe(user => {
       this.currentUser = user;
     });
@@ -45,22 +45,23 @@ export class CartComponent implements OnInit {
     return total;
   }
 
-  placeOrder() {
-    // Implementation for placing order
+  goToCheckout() {
+    this.router.navigate(['/checkout'], { queryParams: { total: this.total } });
   }
 
   Delete(ItemId: number) {
     this.cartService.deleteCartItem(this.currentUser.id, ItemId).subscribe(
       () => {
-        console.log("Article supprimé avec succès");
+        console.log("produit supprimé avec succès");
         // Mettre à jour l'état du panier ici, par exemple en retirant l'article supprimé de la liste
         this.cartItems = this.cartItems.filter(item => item.id !== ItemId);
         // Recalculer le total après la suppression
         this.total = this.calculTotal(this.cartItems);
       },
       (error) => {
-        console.error("Erreur lors de la suppression de l'article", error);
+        console.error("Erreur lors de la suppression du produit ", error);
       }
     );
   }
+  
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Accesso_backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4d00b0005a146424f55cca3a8dfff509bcdfcbd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76ef84790f2cbe19c355c582604255021621c188")]
 [assembly: System.Reflection.AssemblyProductAttribute("Accesso_backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Accesso_backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

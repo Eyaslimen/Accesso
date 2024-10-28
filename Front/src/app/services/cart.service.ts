@@ -49,7 +49,9 @@ export class CartService {
       switchMap(() => this.http.delete<void>(`${this.apiUrll}/Carts/cart/${userId}/remove/${itemId}`))
     );
   }
-  
+  DeleteAll(userId: number) {
+    
+  }
 
   clearCartItemCount() {
     this.cartItemCount.next(0); // Reset count when the cart is cleared
