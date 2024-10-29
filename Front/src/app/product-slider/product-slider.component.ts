@@ -1,8 +1,8 @@
 import { Component, AfterViewInit, OnInit, Output, EventEmitter } from '@angular/core';
-import { Product, ProductsService } from '../products.service';
 import { NgFor } from '@angular/common';
 import { AuthService } from '../services/auth/auth.service';
 import { CartService } from '../services/cart.service';
+import { Product, ProductsService } from '../services/products.service';
 
 @Component({
   selector: 'app-product-slider',
